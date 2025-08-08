@@ -1,3 +1,4 @@
+# auto-generated, do not edit
 from artiq.language.core import portable
 from artiq.language.types import TInt32
 from numpy import int32
